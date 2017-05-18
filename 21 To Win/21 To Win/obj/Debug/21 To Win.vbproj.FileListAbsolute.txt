@@ -1,0 +1,10 @@
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\bin\Debug\21 To Win.exe.config
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\bin\Debug\21 To Win.exe
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\bin\Debug\21 To Win.pdb
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\bin\Debug\21 To Win.xml
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\obj\Debug\21 To Win.vbprojResolveAssemblyReference.cache
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\obj\Debug\_21_To_Win.Resources.resources
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\obj\Debug\21 To Win.vbproj.GenerateResource.Cache
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\obj\Debug\21 To Win.exe
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\obj\Debug\21 To Win.xml
+C:\Users\mylit_000\Documents\Visual Studio 2017\Projects\21 To Win\21 To Win\obj\Debug\21 To Win.pdb
